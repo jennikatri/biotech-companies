@@ -5,7 +5,9 @@ List of potential companies for a gene technology student
 * Icosagen, https://icosagen.com/
 * Synlab, https://synlab.ee/
 * Asper Biogene, https://www.asperbio.com/et/
-*
+* CureTech, http://www.curetechbio.com/
+* FibroTx, http://www.fibrotx.com/
+
 
 # About me
 Jenni Katri Pedor
